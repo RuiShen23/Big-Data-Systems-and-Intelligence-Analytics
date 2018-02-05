@@ -8,7 +8,7 @@ CSYE 7245, INFO 7390, Spring 2018, Northeastern University
 
 
 
-###Abstract
+### Abstract
 
 While investing a company - no matter capital venture, loan, or acquisition, the financial health of that company is one of the most important considerations to the most. Therefore, it's crutial for financial companies to have an accurate evaluation of the financial distress index. It is considerably difficult to perdict the future trend of a company for several years, but much easier to identify the current situation. Gathering public data and calcluate a financial distress index before further dicsion is an effective way to prevent loss.
 
